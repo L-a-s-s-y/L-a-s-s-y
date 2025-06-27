@@ -77,7 +77,7 @@
     <td>A simple Information Retrieval System using <a href="https://lucene.apache.org/"> Lucene.</td>
   </table>
   
-  <table>
+<table>
   <tr>
     <th colspan="4"><h3 align="left">Academic projects</h3></th>
   </tr>
@@ -162,6 +162,9 @@
           height="20" /> </a>
     <td>Remote controller and image recognition in a robot using <a href="https://pypi.org/project/yolov5/"> Yolo5</a> and <a href="https://zeroc.com/ice"> ZeroC-Ice.</td>
   </tr>
+  </table>
+
+<table>
   <tr>
     <th colspan="4"> <h3 align="left">My own projects</h3></th>
   </tr>
@@ -171,13 +174,11 @@
     <th align=left>Lang</th>
     <th align=left>Description</th>
   </tr>
-  </table>
-  <table>
   <tr>
   <td>
       Are ya wining son? :(
-  </td>
-    <!--<td>
+  <!--</td>
+    <td>
       <a href="https://github.com/L-a-s-s-y/La-Gramola">La Gramola</a>
     </td>
     <td>2022</td>
@@ -188,7 +189,7 @@
     </td>
     <td>A simple music player with python and ffmpeg.</td>-->
   </tr>   
-  </table>
+</table>
 
 <table>
   <tr>
