@@ -162,11 +162,11 @@
           height="20" /> </a>
     <td>Remote controller and image recognition in a robot using <a href="https://pypi.org/project/yolov5/"> Yolo5</a> and <a href="https://zeroc.com/ice"> ZeroC-Ice.</td>
   </tr>
-  </table>
+</table>
 
 <table>
   <tr>
-    <th colspan="4"> <h3 align="left">My own projects</h3></th>
+    <th colspan="4"><h3 align="left">Academic projects</h3></th>
   </tr>
   <tr>
     <th align=left>Project name</th>
@@ -175,20 +175,13 @@
     <th align=left>Description</th>
   </tr>
   <tr>
-  <td>
-      Are ya wining son? :(
-  <!--</td>
     <td>
-      <a href="https://github.com/L-a-s-s-y/La-Gramola">La Gramola</a>
+      Are ya wining son?</a>
     </td>
-    <td>2022</td>
-    <td>
-      <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img
-            src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" alt="python"
-            width="20" height="20" /> </a>
-    </td>
-    <td>A simple music player with python and ffmpeg.</td>-->
-  </tr>   
+    <td>20025</td>
+    <td></td>
+    <td>Work in progress, please be patient. Thank you. </td>
+  </tr>
 </table>
 
 <table>
