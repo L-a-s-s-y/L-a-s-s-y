@@ -166,7 +166,7 @@
 
 <table>
   <tr>
-    <th colspan="4"><h3 align="left">Academic projects</h3></th>
+    <th colspan="4"><h3 align="left">My own projects</h3></th>
   </tr>
   <tr>
     <th align=left>Project name</th>
